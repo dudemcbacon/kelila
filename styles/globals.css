@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+}
+body {
+    margin: 0;
+}
+
+.typed-fade-out2{
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+#__next {
+    height: 100%;
+}
