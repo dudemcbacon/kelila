@@ -26,7 +26,7 @@ function shuffle(array) {
 
 const things = [
   'She is very cool.',
-  'She is super cool',
+  'She is super cool.',
   'She has a dorky maniac laugh.',
   'She makes everyone laugh.',
   'She has a big laugh.',
@@ -82,7 +82,7 @@ const things = [
   'Accepts me dispite my flaws and foibles.',
   'When she uses one of those big words you know she just read in a book recently.',
   'When she uses one of those big words she has stored up for the perfect moment.',
-  'That crazy laugh that drives me made with love and forces a smile on my mean old face.',
+  'That crazy laugh that drives me mad with love and forces a smile on my mean old face.',
   'When the tears flow, and they flow, and she doesn\'t know why but they don\'t stop.',
   'When she is mad and you can see the smile coming but she doesn\'t want you to know.',
   'An unceasing love for all things loveable.',
@@ -100,13 +100,22 @@ const things = [
   'The depth of her emotion, the firehouse of love -- an unnending spring of adoration.',
   'She is the cat at the top of the stairs looking down for new friends and old.',
   'She is the moss on the side of the rock. The fallen leaf. All of Autumn\'s cast out lot.',
-  'The pain the runs through her deeply and the nature that heals it.',
+  'The pain that runs through her deeply and the nature that heals it.',
   'How she is the dandelion growing from the crack in the rock.',
   'The cold breath misting from her on a winters morning, yearning for coffee or tea or hot mulled wine, wrapped tighter than a young cabbage -- shy but growing fonder and fonder of you.',
   'Her love for food and her drive to eat it with me.',
   'The way a new accent (or a familiar one) makes her weak at the knees.',
   ':]',
-  'Her friendship despite my many, many flaws.'
+  'Her friendship despite my many, many flaws.',
+  'When she gives you those warm comfy cuddles and wiggles that booty.',
+  'When she kisses the babies on the nose and keeps on trying even though they hate.',
+  'When she puts a scoop of poop on it.',
+  'She\'s just a baby.',
+  'She is the best Mrs. Manger that could possibly exist.',
+  'She\'s a strong independant, working girl but still wants big strong man arms to take care of her.',
+  'When she see\'s something you like and you see the lips a lickin\'.',
+  'When she wants the yummy yummers and the ice cream but she won\'t get it unless you go too.',
+  'Her quips are infuriating.'
 ]
 
 export default function Home() {
